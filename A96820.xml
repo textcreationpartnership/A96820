@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plaine, and good advice to the Parliament-men, and officers of the army, of the common-wealth of England, Scotland, and Ireland. Given forth in the name, authority, and by the command of the Lord of Host, for them to read, and consider ...</title>
+            <author>Wollrich, Humphry, 1633?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96820</idno>
+            <idno type="STC">Wing W3297</idno>
+            <idno type="STC">ESTC R224336</idno>
+            <idno type="EEBO-CITATION">47683570</idno>
+            <idno type="OCLC">ocm 47683570</idno>
+            <idno type="VID">173024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plaine, and good advice to the Parliament-men, and officers of the army, of the common-wealth of England, Scotland, and Ireland. Given forth in the name, authority, and by the command of the Lord of Host, for them to read, and consider ...</title>
+                  <author>Wollrich, Humphry, 1633?-1707.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Signed at end: From Newgate, the 6 day of the 8 Moneth. H. Wollrich.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173024:1"/>
+            <head>A Plaine, and Good ADVICE to the Parliament-Men, and Officers of the Army, Of the Common-Wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <head type="sub">Given forth in the Name, and Authority, and by the Command of the Lord of Hoſt, for them to Read, and conſider in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Day.</head>
+            <p>
+               <seg rend="decorInit">O</seg> YE PARLIAMENT OF <hi>ENGLAND!</hi> by whom I moſt Unjuſtly ſuffer, becauſe it is in your Hands, but not in your Hearts to this very day to let the Oppreſſed go free: And though the Lord God hath (by putting this power into your Hands) tryed you once more, to ſee whether ye would do as ye have often ſaid; and performe the Vowes which ye have uttered before the Almighty God and good Men, when ye were in trouble. But alas! in this caſe ye have not dealt faithfully, but like <hi>Ephraim,</hi> ye have turned back in the Lords Battell, and turned aſide like a deceitfull Bow: Therefore is the Lord ariſing in his Jealouſie, and in his Anger againſt you, as he hath done againſt yours, and his Enemies. And will the Lord diſown one Perſecuting Go<g ref="char:EOLhyphen"/>vernment, and ſave another which are walking in their ſteps? Nay, he will not. And though he hath wonderfully been with you, and in your Loe condition hath he many a time remembred you, and ſaved you out of their hands that have been too ſtrong for you: And if ever <hi>Iſrael</hi> had cauſe to ſay, (You much more) <hi>Had not the Lord been on our ſide, We, and our little Ones ſhould have been a Prey, and utterly periſhed by our Enemies.</hi> Moreover, the Lord hath ſaved you; and ye are not only a People ſaved by the Lord from outward Enemies; and your Lives, and the lives of your Wives, and your little Ones given you for a prey; but he hath given you alſo the Necks of your Enemies, and thoſe that hated you, come Bending before you; and he hath given you goodly Houſes which ye did not build, and Fields for which ye did not labour; not becauſe ye were better than others, but becauſe ye ſhould be a ſhelter to his People, and let his Out-caſt dwell with you: But thus ſaith the Lord, the Lord God Almighty, <hi>Ye alſo have waſted my heritage:</hi> and inſtead of break<g ref="char:EOLhyphen"/>ing the Jawes of the Wicked, and delivering the Iland of the Innocent, and ſaving the afflicted; and delivering them that were appointed for Deſtruction inſtead hereof, ſaith the Lord Almighty: Ye are ſetting up them that are ſmiting at you, and ſuch as God would have had you to have thrown down, rather than ſtrengthen them by your oppreſſing Lawes which are yet by you maintained, and not thrown down. And though ye have done well in delivering ſome out of Priſon, that for Conſcience towards God, could not maintain a falſe and deceitful Miniſtry; yet ye have not (like <hi>Caleb,</hi> and <hi>Joſhua)</hi> gone through with the work; but ye (like <hi>Iſrael</hi> of old) have been afraid of the People whom the Shield, and ſtrength of the Lord is departed: And ye have not in this thing done wiſely, but very fooliſhly, and your hearts have not been upright; neither have ye wholly followed the Lord God of <hi>Iſrael;</hi> and many Popiſh Laws are yet in force, and not Repealed by you; by which Laws, them whom ye have ſet at liber<g ref="char:EOLhyphen"/>ty, may by their perſecutors ſuffer again when they pleaſe. And ſo Friends, this is not to do the Lords work faithfully, but deceitfully; ſo We (by You) are not preſerved in the liberty of a pure Conſcience, but rather reſerved for a day of Deſtruction at our Enemies pleaſures. And what have we done? or wherein have we been Treacherous againſt this, or any Government? but that we, who have been, of all people of this Nation Faithful, and have done you good, (that of God in you ſhall bear us witneſs) for this your Evil dealing towards us, that we, of all men, can have little Juſtice from you: And this ye have done againſt the Lord, and againſt his People: and after all Gods goodneſs to you, (in Hypocriſie) ye Proclaimed a day of Feaſting, and Thankſgiving, and there you hearkned to one of your Teachers, that falſly accuſed the Lords People to you, and cries to the Magiſtrate, as the old Per<g ref="char:EOLhyphen"/>ſecutors did in the days of the Apoſtles, <hi>Help men of</hi> Iſrael, <hi>theſe men turn the world upſide down.</hi> And ſo your Feaſting is not much better than <hi>Ahabs</hi> Faſting: for ye ſuffered three of us (at your <hi>THANKSGIVING-SER<g ref="char:EOLhyphen"/>MON)</hi> to be Beaten, only for ſpeaking a few words, in the Name and Au<g ref="char:EOLhyphen"/>thority of the Lord; and two of us lie in <hi>Newgate</hi> now, and ye were Eye<g ref="char:EOLhyphen"/>witneſſes of this thing; who of all others ſhould not ſuffer ſuch things to be; yet ye ſuffered us to be beaten before your Eyes, and none of you ſo Valiant for the Lord, as to ſtand up, and deſire to underſtand this thing: but after we were beaten (contrary to all Law) we were violently carried to <hi>Newgate,</hi> and not ſo much as Queen <hi>Maries</hi> Law broken by me; by which Law ſo many of us have loſt both our lives and liberties, being Impriſoned till Death: as if this were not enough, but your Teachers are ſtill ſtirring you up to turn the Sword againſt the Innocent.</p>
+            <p>And will ye call this a Day of Thankſgiving, or a day Acceptable to the Lord? Nay, nay, God will find you out; and as for Us, we are in Gods hand; and if he command us to cry in the Kings Chappel, or againſt the Heads and Mountains of <hi>Iſrael,</hi> we love not our lives to the Death: and whether we ought to obey God or Man, judge ye, with the ſpirit of the Lord in your Conſciences? And though we are rejected, and our necks under Bondage; and our lives, liberties, and goods Spoiled by you, it being in your power to break in pieces all Perſecution: Yet know, the Lord is Our ſtrength, and Our ſhield; and the Voice of a King is amongſt Us, though ye have with Feaſting, and Fulneſſe, ſhut both your hearts and ears againſt him, and we know the Rock of Ages: and though our lives (by you) may be made bitter to us, yet againſt the tried Stone ſhall ye never prevail; and though ye are building your own Houſes, and Honouring one another, and rejecting him that receives not honour of Men, yet the Lord will honour him, when all your honor lieth in the duſt: for the Lord will yet overturn, overturn, untill he Raign, whoſe right it is to Raign: for Righteouſneſs (of a truth) doth not yet raign among you; neither is the Name of the Lord exalted in <hi>England</hi> to this very day, after all your large Engagements for a GOSPEL-REFORMATION.</p>
+            <p>And who that fears the <hi>Lord</hi> can be ſilent, to ſee what grievous Oppreſ<g ref="char:EOLhyphen"/>ſion, and wicked Tyranny is found in your Priſons; for within this three weeks, there is three poor debtors in <hi>Newgate</hi> periſhed for want of Bread; while you, after all your Vows and Promiſes to eaſe Oppreſſion, are conſu<g ref="char:EOLhyphen"/>ming many hundreds in Feaſting: And in this Priſon, where men are caſt, pretending that they ſhall pay their Debts; which thing ought to be done, but the <hi>Lord</hi> hath a Controverſie with you: for theſe things are done, and ye ſuffer them, which ought not to be ſuffered among you, who have before the <hi>Lord</hi> Engaged to take off all Oppreſſion, which was in your Power.</p>
+            <p>They are moſt grievouſly oppreſſed, being conſtrained to pay ten ſhil<g ref="char:EOLhyphen"/>lings and ſix pence a week for a poor bed; ſo that the By-fees, and ſuch things are utterly ruined, and made altogether unable either to pay depts, or to redeem themſelves out of perpetuall ſlavery, and this is ſuffered by you, in whoſe days we had cauſe given us, by your large promiſes to hope that true Judgement, and Juſtices ſhould have ſtreamed down our ſtreets: Therefore Friends, before it be too late, conſider whether this is to performe that which your mouths have uttered when ye were in trouble and diſtreſs: But if you do not throughly amend your wayes, and your doings, the Lord will not long ſuffer you, who will not ſuffer the Lamb to rule amongſt you; yet the Lord ſtandeth in the Congre<g ref="char:EOLhyphen"/>gation of the Mighty, yea, he judgeth amongſt the Gods.</p>
+            <p>Therefore, thus ſaith the Lord God, to you that rule this oppreſſed people, break all oppreſſing Lawes, and fears not the faces of man, But let my Son come out of Spirituall <hi>Egypt,</hi> and let him rule in your hearts, and let every Soul in AUTHORITY be ſubject to the Higher Power, and ſo in Chriſt: Gods Power, and Gods Wiſdom, ye ſhall rule and prevaile as Princes with God and men, and ſo when Chriſt the King of Righteouſneſſe raines in you, he ſhall ſcatter the wicked, and as chaff ſhall they be before you, and your memoriall ſhall not rott, but your names ſhall be had in everlaſting remembrance; and you ſhall be as oyntment poured out, and the Lord ſhall command his Strength for you, and your hearts ſhall be as the heart of a Lion; and the everlaſting God ſhall be your refuge, and you ſhall be ſtrength<g ref="char:EOLhyphen"/>ned by the Arme of the Mighty God of <hi>Jacob.</hi>
+            </p>
+            <p>But friends, this is the plain truth to you all, that ſo long as the ſpirit in you is grieved, ye will grieve it in others; and ſo long as he is oppreſſed in you, ye will oppreſs his heritage, and make the heart of the righteous ſad: Therefore ye muſt all come to the meaſure of his Spirit, which he hath given every one of you to profit withall, and ye ſhall with it ſee, and truly diſcerne, how many Popiſh unprofitable, and wicked Lawes are yet in force: and how do ye grant liberty, when we and our goods are ſpoiled to repair an Idol-Temple, and maintain a falſe Miniſtry which God never ſent, but were made at <hi>Oxford</hi> and <hi>Cambridge</hi> in the wills of men? therefore, how long ſhall the Lord warn you, that ye do not compell us to drink any longer of the Whors Cup, <hi>Rev.</hi> 17. which hath made all Nations, Multitudes, and all the Kings of the earth Drunke with the wine of her Fornication.</p>
+            <p>To you this is the word of the Lord, Hate the Whore, the Beaſt, and the falſe Prophet, and lay her deſolate; and give not your ſtrength to them any longer, for if ye go on thus, to turne the Sword againſt his people, your ſtrength which he hath commanded for you he will Speedily take away, and ye ſhall be weak as water; ye your mighty men ſhall be as women, and feare in your hearts ſhall ſurpriſe you, and God ſhall con<g ref="char:EOLhyphen"/>found you, as he hath done the perſecutors that went before you; and all your wiſ<g ref="char:EOLhyphen"/>dom and ſtrength ſhall be to deſtroy one another, and you that have been warned ſo often by the Lord in his people: but like <hi>Pharoh</hi> to this day have not broken the bands of oppreſſion, notwithſtanding all Gods goodneſſe to you, and your promiſes of re<g ref="char:EOLhyphen"/>formation to him: O friends! with my ſoul I deſire you do not forget him dayes with<g ref="char:EOLhyphen"/>out number, that hath in your loe condition ſo often remembred you: there is a witneſs in you, that the Lord ſtood by you; ye Commanders of the Army, remember who ſtood by you in <hi>Scotland,</hi> and many a time in <hi>England</hi> hath the Lord raiſed up his power in you, and your Souls have troden downe ſtrength; and a ſecret hand, and inward confidence ye have felt, and deliverance hath come ye knew not how your ſelves. Thus the Lord hath been a Father to you when ye were fatherleſſe, and comfortleſſe, yea, when almoſt all the Prieſts in <hi>England</hi> and <hi>Scotland</hi> were preaching you downe, and as one man joyning together againſt you, theſe flatterers are now fed by you with the bread of others that did never thus act; and like <hi>Baals</hi> Prophets which did eat at <hi>Jeſabells</hi> Table, they are crying perſecute, and proſper.</p>
+            <p>Therefore, in the Name, and Athority of the Lord God of Hoſt, this is a charge to you all, let <hi>Jeſabells</hi> Prieſts eat at <hi>Jeſabells</hi> Table; or, who will ſet meat before them, but do not force, impiſon, and compell my people to maintaine them any longer, as ye have long done, but let them be left free in their ſpirits, and conſciences, to main<g ref="char:EOLhyphen"/>taine whom they in their hearts do believe it is their Duty.</p>
+            <p>And again, in the name and feare of the Lord I lay it upon you, that ye break all wicked Lawes, and cuſtoms in your priſons, and let no more periſh for want of bread, or not paying of fees when they have nothing to pay. And when I conſider how many of the Lords Servants have been moved of the Lord to write to you, to warne you of theſe things, and of all the perſecution that hath been, and ſtill is in <hi>England,</hi> and all parts of your dominions, yea, this very day of your Thankſgiving, how violently we were abuſed before your eyes, and none ſtood up amongſt you in the Lords behalfe, to ſay ſo much as <hi>Pilate</hi> did, What evil hath theſe men done? and though we were moved of the Lord, and came in his name and Authority to ſpeake, yet ye ſuffer us to be beaten, and carried to Newgate before your eyes; and few ſo moderate as to hearken, but cry, away with them after, I had ſpoken a few words; and ſo condemned me, being Innocent in the ſight of God, and good men: I ſay, conſidering this, I was unwilling to write, nevertheleſſe, I being moved of the Lord to write, I am obedient; and I told you Magiſtrates then, that unleſs ye would quiet the people which pulled me down while I was ſpeaking, I could not be cleare of you in the ſight of the Lord.</p>
+            <closer>
+               <signed>H. Wollrich</signed>
+               <dateline>From <hi>Newgate,</hi> 
+                  <date>the 6 day of the 8 Moneth.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
